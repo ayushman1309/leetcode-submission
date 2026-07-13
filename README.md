@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushman1309/leetcode-submission/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushman1309/leetcode-submission/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
@@ -45,5 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushman1309/leetcode-submission/tree/master/0199-binary-tree-right-side-view) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
