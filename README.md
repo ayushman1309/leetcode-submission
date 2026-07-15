@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0098-validate-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/ayushman1309/leetcode-submission/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
