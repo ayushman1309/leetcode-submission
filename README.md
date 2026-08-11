@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ayushman1309/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushman1309/leetcode-submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushman1309/leetcode-submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushman1309/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushman1309/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushman1309/leetcode-submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushman1309/leetcode-submission/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ayushman1309/leetcode-submission/tree/master/0053-maximum-subarray) |
+| [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushman1309/leetcode-submission/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -144,4 +148,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayushman1309/leetcode-submission/tree/master/0023-merge-k-sorted-lists) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
