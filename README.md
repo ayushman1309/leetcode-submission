@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushman1309/leetcode-submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3731-find-missing-elements](https://github.com/ayushman1309/leetcode-submission/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushman1309/leetcode-submission/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ayushman1309/leetcode-submission/tree/master/0199-binary-tree-right-side-view) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayushman1309/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayushman1309/leetcode-submission/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -194,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
