@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushman1309/leetcode-submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3731-find-missing-elements](https://github.com/ayushman1309/leetcode-submission/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayushman1309/leetcode-submission/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushman1309/leetcode-submission/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushman1309/leetcode-submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushman1309/leetcode-submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ayushman1309/leetcode-submission/tree/master/3731-find-missing-elements) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayushman1309/leetcode-submission/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Matrix
 |  |
 | ------- |
