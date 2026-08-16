@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushman1309/leetcode-submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayushman1309/leetcode-submission/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushman1309/leetcode-submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0200-number-of-islands](https://github.com/ayushman1309/leetcode-submission/tree/master/0200-number-of-islands) |
 | [0218-the-skyline-problem](https://github.com/ayushman1309/leetcode-submission/tree/master/0218-the-skyline-problem) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayushman1309/leetcode-submission/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushman1309/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ayushman1309/leetcode-submission/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ayushman1309/leetcode-submission/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ayushman1309/leetcode-submission/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushman1309/leetcode-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ayushman1309/leetcode-submission/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/ayushman1309/leetcode-submission/tree/master/0200-number-of-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ayushman1309/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ayushman1309/leetcode-submission/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ayushman1309/leetcode-submission/tree/master/0200-number-of-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
@@ -213,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ayushman1309/leetcode-submission/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
