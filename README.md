@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ayushman1309/leetcode-submission/tree/master/0733-flood-fill) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushman1309/leetcode-submission/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/ayushman1309/leetcode-submission/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushman1309/leetcode-submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushman1309/leetcode-submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayushman1309/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushman1309/leetcode-submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0542-01-matrix](https://github.com/ayushman1309/leetcode-submission/tree/master/0542-01-matrix) |
+| [1563-stone-game-v](https://github.com/ayushman1309/leetcode-submission/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushman1309/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
+| [1563-stone-game-v](https://github.com/ayushman1309/leetcode-submission/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushman1309/leetcode-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushman1309/leetcode-submission/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushman1309/leetcode-submission/tree/master/0200-number-of-islands) |
+## Game Theory
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/ayushman1309/leetcode-submission/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
