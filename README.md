@@ -154,12 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushman1309/leetcode-submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ayushman1309/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/ayushman1309/leetcode-submission/tree/master/0079-word-search) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushman1309/leetcode-submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushman1309/leetcode-submission/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushman1309/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushman1309/leetcode-submission/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ayushman1309/leetcode-submission/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/ayushman1309/leetcode-submission/tree/master/1563-stone-game-v) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushman1309/leetcode-submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
