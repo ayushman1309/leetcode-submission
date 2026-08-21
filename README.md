@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ayushman1309/leetcode-submission/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/ayushman1309/leetcode-submission/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ayushman1309/leetcode-submission/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayushman1309/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ayushman1309/leetcode-submission/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushman1309/leetcode-submission/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayushman1309/leetcode-submission/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayushman1309/leetcode-submission/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ayushman1309/leetcode-submission/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ayushman1309/leetcode-submission/tree/master/0200-number-of-islands) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayushman1309/leetcode-submission/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushman1309/leetcode-submission/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushman1309/leetcode-submission/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
