@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ayushman1309/leetcode-submission/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayushman1309/leetcode-submission/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushman1309/leetcode-submission/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ayushman1309/leetcode-submission/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushman1309/leetcode-submission/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushman1309/leetcode-submission/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
