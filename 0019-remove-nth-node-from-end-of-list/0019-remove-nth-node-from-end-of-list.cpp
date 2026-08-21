@@ -26,19 +26,14 @@ public:
             return temp; 
         }
         int a = l-n;
-
         ListNode* temp = head;
         ListNode* prev = NULL;
-
         while(a--){
             prev = temp;
             temp = temp->next;
         }
-
         prev->next = temp->next;
-
         delete(temp);
         return head;
-
     }
 };
